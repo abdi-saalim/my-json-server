@@ -10,7 +10,7 @@
     },
     {
       "name": "Remote Project 2",
-      "description": "Another project fetched from the cloud. This shows how the Load Remote button works.",
+      "description": "Another project fetched from My JSON Server. This also shows how the Load Remote button works.",
       "image": "./assets/images/http-chat-server.png",
       "imageAlt": "HTTP Chat Server project image",
       "link": "https://github.com/abdi-saalim/http-chat-server",
