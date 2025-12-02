@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "name": "Remote Project 1",
+      "description": "This is a project loaded from My JSON Server. It demonstrates fetching data from a remote server.",
+      "image": "./assets/images/iot-wardrobe.png",
+      "imageAlt": "IoT Wardrobe project image",
+      "link": "https://github.com/abdi-saalim/http-chat-server",
+      "linkText": "See the project here!"
+    },
+    {
+      "name": "Remote Project 2",
+      "description": "Another project fetched from the cloud. This shows how the Load Remote button works.",
+      "image": "./assets/images/http-chat-server.png",
+      "imageAlt": "HTTP Chat Server project image",
+      "link": "https://github.com/abdi-saalim/http-chat-server",
+      "linkText": "See the project here!"
+    }
+  ]
+}
